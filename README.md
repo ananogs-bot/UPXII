@@ -2,5 +2,6 @@
 **Repositório para armazenar o código da UPXII: Banco de Dados**
 
 
-### Ideia Principal:
-Banco de Dados sobre controle de estoque, contendo a quantidade e data de validade como atributos principais. Além de possuir a possibilidade da escolha de métodos, que facilitam na hora de administrar o estoque.
+### Projeto:
+O projeto de controle de alimentos é uma solução tecnológica para ajudar os usuários a gerenciar seus estoques de alimentos de forma eficiente, evitando desperdícios e economizando dinheiro. A plataforma permite que os usuários monitorem os itens de suas dispensas e acompanhem prazos de validade, para que planejem a execução de receitas com base nos alimentos disponíveis. Este sistema é útil para quem deseja maior controle do consumo, redução de custos e atenuação do impacto ambiental. Assim, é possível promover decisões de compra e de preparo de refeições mais conscientes.
+![Projeto - MartCode](https://github.com/user-attachments/assets/49c1ca50-fd41-418a-b3ee-eabde9b4cf02)
