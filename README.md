@@ -1,8 +1,7 @@
-# UPXII
-**Repositório para armazenar o código da UPXII: Banco de Dados**
+# MySQL (Banco de Dados)
 
+Esta seção contém o nosso script do Banco de Dados, que foi um requisito essencial para a realização e concretização da disciplina Usina de Projetos Experimentais II. O script foi desenvolvido para fornecer a base necessária ao nosso projeto, garantindo a organização e integridade dos dados.
 
-### Projeto:
-O projeto de controle de alimentos é uma solução tecnológica para ajudar os usuários a gerenciar seus estoques de alimentos de forma eficiente, evitando desperdícios e economizando dinheiro. A plataforma permite que os usuários monitorem os itens de suas dispensas e acompanhem prazos de validade, para que planejem a execução de receitas com base nos alimentos disponíveis. Este sistema é útil para quem deseja maior controle do consumo, redução de custos e atenuação do impacto ambiental. Assim, é possível promover decisões de compra e de preparo de refeições mais conscientes.
+O banco de dados é composto por três tabelas principais: 'Produto', 'Mercado_Fornecedor' e 'Estoque'. Cada uma dessas tabelas desempenha um papel fundamental na estrutura do sistema, possibilitando a integração de informações cruciais para o funcionamento do projeto. A tabela 'Produto' armazena dados sobre os produtos disponíveis, enquanto 'Mercado_Fornecedor' conecta os fornecedores aos produtos e, por fim, a tabela 'Estoque' controla as quantidades de produtos disponíveis e suas respectivas informações de validade.
 
-![Projeto - MartCode](https://github.com/user-attachments/assets/da0d723a-02c0-47e7-806e-8ae8f4393098)
+Com essas três tabelas, conseguimos estruturar e visualizar um determinado estoque de forma organizada, eficiente e prática, permitindo um gerenciamento mais fácil e intuitivo dos dados e facilitando a tomada de decisões dentro do contexto do projeto.
