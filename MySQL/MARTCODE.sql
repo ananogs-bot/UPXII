@@ -24,7 +24,7 @@ sistema_medida VARCHAR(3) NOT NULL,
 validade DATE NOT NULL,
 categoria VARCHAR(120) NOT NULL,
 PRIMARY KEY(cod_estoque),
-FOREIGN KEY(cod_Produto) REFERENCES PRODUTO(cod_produto),
+FOREIGN KEY(cod_produto) REFERENCES PRODUTO(cod_produto),
 FOREIGN KEY(cod_mercado_fornecedor) REFERENCES MERCADO_FORNECEDOR(cod_mercado_fornecedor)
 );
 
