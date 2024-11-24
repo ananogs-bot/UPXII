@@ -1,7 +1,5 @@
-# Códigos Java
+# Java
 
-Esta seção contém os nossos códigos em Java.
+Esta seção apresenta os nossos códigos em Java, organizados em duas classes principais: 'MartCode' e 'Principal'. De maneira geral, a classe 'MartCode' contém os métodos que são utilizados pela classe 'Principal', estabelecendo uma estrutura modular e eficiente.
 
-Eles estão organizados em duas classes: 'MartCode' e 'Principal'. De forma geral, a classe 'MartCode' é responsável pelos métodos que são utilizados pela classe 'Principal'.
-
-Nosso objetivo ao utilizar a linguagem Java foi facilitar a integração com o MySQL. Para isso, implementamos uma série de opções na classe 'Principal', permitindo que o usuário não precise digitar repetidamente os comandos para selecionar, adicionar, atualizar ou excluir itens da tabela. Dessa forma, tornamos o uso mais prático e eficiente no dia a dia.
+O principal objetivo ao utilizar a linguagem Java foi facilitar a integração com o MySQL, tornando o processo de manipulação de dados mais intuitivo. Para alcançar isso, implementamos uma série de funcionalidades na classe 'Principal', que automatizam ações comuns, como selecionar, adicionar, atualizar e excluir itens na tabela. Com isso, o usuário não precisa digitar repetidamente os comandos, otimizando o uso diário do sistema e tornando-o mais prático e ágil.
