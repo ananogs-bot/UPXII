@@ -9,10 +9,24 @@ O projeto de controle de alimentos é uma solução tecnológica para ajudar os 
 
 
 ### Acessos:
+- Documentações:
+
+
+- Apresentação:
+
+
+- Banner:
+
+
+- Vídeo Pitch:
+
+
 - Códigos JAVA:
 https://github.com/ananogs-bot/UPXII/tree/UPXII-JAVA
 
 - Códigos MySQL (Banco de Dados): 
 https://github.com/ananogs-bot/UPXII/tree/UPXII-Banco-de-Dados 
 
-- Documentação:
+
+
+
