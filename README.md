@@ -9,23 +9,20 @@ O projeto de controle de alimentos é uma solução tecnológica para ajudar os 
 
 
 ### Acessos:
-- Documentações:
-
-
-- Apresentação:
-
+- Documentação:
+https://github.com/ananogs-bot/UPXII/tree/MartCode-Documenta%C3%A7%C3%A3o
 
 - Banner:
-
+https://github.com/ananogs-bot/UPXII/tree/MartCode-Banner
 
 - Vídeo Pitch:
 
 
 - Códigos JAVA:
-https://github.com/ananogs-bot/UPXII/tree/UPXII-JAVA
+https://github.com/ananogs-bot/UPXII/tree/MartCode-Java
 
 - Códigos MySQL (Banco de Dados): 
-https://github.com/ananogs-bot/UPXII/tree/UPXII-Banco-de-Dados 
+https://github.com/ananogs-bot/UPXII/tree/MartCode-MySQL
 
 
 
