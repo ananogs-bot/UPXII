@@ -37,7 +37,7 @@ public class Principal {
 	        
 	        
 	        //Continuidade, caso a conexão tenha dado certo:
-	        //if(conectividade) {
+	        if(conectividade) {
 		        //Mensagem de ínicio:
 	        	JOptionPane.showMessageDialog(null, "Bem vindo(a) ao MartCode!", "MartCode", JOptionPane.INFORMATION_MESSAGE);
 		        
@@ -209,6 +209,7 @@ public class Principal {
 			        	i++;
 			        	break;
 		        	}
-		      }
-	     }
+		      	}
+	     	}
 	}
+}
