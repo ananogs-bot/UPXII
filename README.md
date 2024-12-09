@@ -24,6 +24,9 @@ https://github.com/ananogs-bot/UPXII/tree/MartCode-Java
 - Códigos MySQL (Banco de Dados): 
 https://github.com/ananogs-bot/UPXII/tree/MartCode-MySQL
 
+- Modelagem no Figma:
+https://www.figma.com/design/RhlM2MGfnaNWSlUvrR7ZLY/MartCode?node-id=1-2&node-type=canvas&t=SXjSL4G17H3ekAer-0
+
 
 
 
